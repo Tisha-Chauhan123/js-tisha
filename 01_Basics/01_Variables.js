@@ -1,15 +1,15 @@
 const accountId = 422335
-let accountEmail = "tctc@gmail.com"
+let accountEmail = "tisha@google.com"
 var accountPassword = "12345"
 accountCity = "Jaipur"
-let accountState
+let accountState;
 
 // accountId = 2 //
 
 // console.log(accountId) //
 
-accountEmail = "tisha@gmail.com"
+accountEmail = "tc@tc.com"
 accountPassword = "76576"
 accountCity = "Rajkot"
 
-console.table(accountId,accountEmail,accountPassword,accountState)
+console.table([accountId,accountEmail,accountPassword,accountState])
